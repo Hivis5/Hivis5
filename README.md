@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hivis5
-- 👀 I’m interested in Fullstack Development and Design
+- 👀 I’m interested in Frontend Development and Design
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Frontend Development 
 - 📫 How to reach me Email:- hiteshvishalsubramani@gmail.com
