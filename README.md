@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hivis5
+- 👋 Hi, I’m Hitesh Vishal
 - 👀 I’m interested in Frontend Development and Design
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Frontend Development 
