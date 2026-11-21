@@ -1,4 +1,4 @@
-# Hi, I'm Hitesh (`@Hivis5`)
+# Hi, I'm Hitesh Vishal (`@Hivis5`)
 
 **UI-Focused Software Developer** building clean, purposeful tools for everyday friction.
 
